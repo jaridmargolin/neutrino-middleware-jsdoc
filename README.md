@@ -1,3 +1,7 @@
+Moved to: [neutrino-contrib/neutrino-middleware-jsdoc](https://github.com/jaridmargolin/neutrino-contrib/tree/master/packages/neutrino-middleware-jsdoc)
+
+---
+
 # Neutrino JSDoc Middleware
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 
